@@ -1,7 +1,7 @@
 # Thesis Guidance Committee Reports Template
 
 
-<img src="https://github.com/mida-project/report_tgc_template/blob/master/assets/banner_1000x200.png?raw=true" width="100%" />
+<img src="https://github.com/mida-project/report_tgc_template/blob/main/assets/banner_1000x200.png?raw=true" width="100%" />
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/mida-project/report_tgc_template/blob/master/LICENSE)
 [![Last commit](https://img.shields.io/github/last-commit/mida-project/report_tgc_template?style=flat-square)](https://github.com/mida-project/report_tgc_template/commits/master)
