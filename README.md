@@ -11,7 +11,7 @@
 [![Gitter](https://img.shields.io/gitter/room/gitterHQ/gitter.svg?style=flat-square)](https://gitter.im/opprTeam)
 [![Twitter](https://flat.badgen.net/twitter/follow/opprGroup)](https://twitter.com/opprGroup)
 
-This repository contains the template for a **Thesis Guidance Committee Reports** sample. The general template can be found on the [`src/`](src/) directory. We used the [LaTeX](https://www.latex-project.org/) format, a typesetting system that includes features designed for the production of technical and scientific documentation. [LaTeX](https://www.latex-project.org/) is available as [free software](https://www.latex-project.org/lppl/). For more detailed information regarding this repository please follow our [wiki](https://github.com/mida-project/report_tgc_template/wiki).
+This repository contains the template for a **Thesis Guidance Committee Reports** sample. The general template can be found on the [`src/`](src/) directory. A version of the template can also be found on the [Overleaf](https://www.overleaf.com/read/shkbwkxdpmgb) platform. We used the [LaTeX](https://www.latex-project.org/) format, a typesetting system that includes features designed for the production of technical and scientific documentation. [LaTeX](https://www.latex-project.org/) is available as [free software](https://www.latex-project.org/lppl/). For more detailed information regarding this repository please follow our [wiki](https://github.com/mida-project/report_tgc_template/wiki).
 
 ## Instructions
 
